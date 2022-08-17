@@ -1,0 +1,4 @@
+- 👋 Hola, Mi nombre es Javier, Soy licenciado en Enfermería y estudio programación.
+- 👀 Estoy interesado en incursionar en el mundo IT.
+- 🌱 Aactualmente estoy cursando Programación Backend.
+- 📫 [How to reach me ...](https://www.linkedin.com/in/javier-alejandro-riquelme-b13317225/)
